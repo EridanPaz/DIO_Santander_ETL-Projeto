@@ -1,0 +1,6 @@
+id,nome,segmento,investimento,Cobrança
+1,Tony,1,0,"multa de 2% + juros de 230%"" a.a."
+2,Steve,2,10.000,multa de 2% + juros anuais com 15% de desconto.
+3,Romanov,3,100.000,dispensar a multa de 2% aplicar 45% de desconto nos juros anuais.
+4,Wanda,3,601.000,dispensar a multa de 2% aplicar 85% de desconto nos juros anuais.
+5,Bruce,2,21.000,multa de 2% + juros anuais com 20% de desconto.
