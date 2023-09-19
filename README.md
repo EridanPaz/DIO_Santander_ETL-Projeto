@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-Utilizando o Python, idealizar e criar um Pipeline ETL (E-xtract, T-ransform e L-oad).
+Utilizando o Python para idealizar e criar um Pipeline ETL (E-xtract, T-ransform e L-oad).
 
 ### Projeto
 
